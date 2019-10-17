@@ -1,0 +1,12 @@
+---
+title: "About me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Ying's awesome website
+
+You can learn about me [here](about.html)
